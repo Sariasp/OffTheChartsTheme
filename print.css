@@ -1,0 +1,37 @@
+/*
+div.comform {display: none !important; }
+
+div#content { width: 100% !important; font: 13pt "Georgia", "Times New Roman", serif !important; }
+div#page {display: none !important; }
+div#sidebar {display: none !important; }
+div#navr, div#navr2, div#navr2 ul, div#navr2 ul li { display: none !important; }
+
+div.breadcrumb { font-size: 10pt !important; padding-left: 4% !important; padding-right: 4% !important; }
+div.date { padding-left: 4% !important; padding-right: 4% !important; }
+div#content-wrap { }
+P.metadata { }
+div.posties.one {margin: 1% !important; width: 100% !important; margin-left: 0 !important; float: left !important; }
+div.posties { padding: 5px 30px !important;}
+img.alignright {float: right !important; }
+img.aligncenter { }
+div.posties.clearfix { padding-left: 4% !important; padding-right: 4% !important; }
+div.author-info { display: none !important; }
+div#addthis { display: none !important;  }
+div.hide-print {display: block !important !important; visibility: visible !important; padding-left: 4% !important; padding-right: 4% !important; }
+div.two { display: none !important; }
+div.footer { display: none !important; }
+a:link, a:visited {
+	color: #520 !important;
+	background: transparent !important;
+	font-weight: bold !important;
+	text-decoration: underline !important;
+	}
+	#content a:link:after, #content a:visited:after {
+   content: " (" attr(href) ") " !important;
+   font-size: 90% !important;
+   }
+   
+   #content a[href^="/"]:after {
+  content: " (http://www.offthechartsblog.org" attr(href) ") " !important;
+   }
+*/
